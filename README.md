@@ -7,7 +7,7 @@
 
 ---
 
-🌟 I'm a 2024 Computer Science grad passionate about building high-impact software and solving real-world problems.  
+🌟 I'm a Computer Science grad passionate about building high-impact software and solving real-world problems.  
 From mobile apps to scalable backend systems — I love turning ideas into code.
 
 ---
