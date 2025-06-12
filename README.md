@@ -28,9 +28,9 @@ From mobile apps to scalable backend systems — I love turning ideas into code.
 - 🏆 LeetCode Rating: **1805** (Top 7%)  
 - 💻 CodeChef: 3★ | Codeforces: Pupil  
 - 🌐 Built 3+ full-stack apps including:
-  - [Dine-Time 🍽️](https://github.com/AdityaChaudhary0002/Dine-Time)
-  - [AI Finance Platform 💸](https://github.com/AdityaChaudhary0002/ai-finance-platform-adi)
-  - [Movie Booking App 🎬](https://github.com/AdityaChaudhary0002/movie-booking-app)
+  - [Byte-Builder 🖥️](https://code-editor-6rqa.onrender.com/)
+  - [Coffee-House ☕️](https://drive.google.com/drive/folders/1JZ0EL0VH1ZSPS8PKMU23dUBty4GjWzK9)
+  - [E-commerce Website 👔](https://e-commercccceee.netlify.app/)
 
 ---
 
