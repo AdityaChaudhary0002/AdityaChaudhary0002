@@ -100,6 +100,10 @@ Demonstrates strong mobile engineering fundamentals.
   <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,react,nodejs,express,mongodb,mysql,redis,firebase,tailwind,ts,docker,git&perline=7" />
+</p>
+
 
 
 ---
