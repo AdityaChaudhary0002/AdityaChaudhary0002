@@ -138,6 +138,7 @@ I enjoy tackling complex algorithmic challenges and continuously strengthening m
 
 📩 **Email:** aditya0002adi@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/adityachaudhary0/  
+🌐 Portfolio: ** https://adityaportfoliositee.netlify.app/
 
 ---
 
