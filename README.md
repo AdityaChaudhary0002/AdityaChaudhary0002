@@ -1,17 +1,25 @@
-<!-- ================= HEADER ================= -->
+<!-- ===== FUTURISTIC HERO HEADER ===== -->
 
-<h1 align="center">Aditya Chaudhary</h1>
+<h1 align="center">
+Hi 👋, I'm <span style="color:#38BDF8;">Aditya Chaudhary</span>
+</h1>
 
 <h3 align="center">
-Full Stack Developer • Real-Time Systems • AI-Powered Applications
+🚀 Full Stack Developer • ⚡ Real-Time Systems • 🤖 AI Applications
 </h3>
 
 <p align="center">
-I build scalable products, high-performance backends, and real-world applications — not just demo projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Applications;Engineering+Real-Time+Experiences;Creating+AI-Powered+Products;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AdityaChaudhary0002&label=Profile%20Views&color=111827&style=flat" />
+<a href="https://github.com/AdityaChaudhary0002">
+<img src="https://komarev.com/ghpvc/?username=AdityaChaudhary0002&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/AdityaChaudhary0002?tab=followers">
+<img src="https://img.shields.io/github/followers/AdityaChaudhary0002?style=for-the-badge&color=0ea5e9"/>
+</a>
 </p>
 
 ---
