@@ -75,19 +75,31 @@ Demonstrates strong mobile engineering fundamentals.
 # 🧠 Technical Expertise
 
 ### Languages
-JavaScript • C++ • Python
+## 🧠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cpp,python" />
+</p>
 
 ### Frontend
-React.js • React Native • Tailwind CSS • TypeScript
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts" />
+</p>
 
 ### Backend
-Node.js • Express.js • REST APIs • Authentication
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Databases
-MongoDB • MySQL • Firebase • Redis
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis" />
+</p>
 
 ### Tools
-Git • Docker • Postman • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" />
+</p>
+
 
 
 ---
